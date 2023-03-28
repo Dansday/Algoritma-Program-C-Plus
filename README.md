@@ -1,6 +1,6 @@
 # Algoritma Program C++
 
-This repository contains the source code and documentation for a university project developed using Dev C++. The project is aimed at implementing a all basic fuction in Dev C++. The implementation is based on from lecturer. The project source code is organized into some folder and file.
+This repository contains the source code and documentation for a university project developed using Dev C++. The project is aimed at implementing a all basic function in Dev C++. The implementation is based on from lecturer. The project source code is organized into some folder and file.
 
 In addition to the source code, the repository also includes documentation, such as original save file. The documentation provides details on the original save file.
 
